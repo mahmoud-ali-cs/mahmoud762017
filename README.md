@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ali from Egypt</h1>
 
 - 🔭 I’m currently working as **Software Developer**
-- 📫 How to reach me **marawanmohamed9876@gmail.com**
+- 📫 How to reach me **sci.mahmoudmohamedali2018@alexu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
