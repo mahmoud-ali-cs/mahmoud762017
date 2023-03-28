@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Ali from Egypt</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Ali</h1>
 
 - 🔭 I’m currently working as **Software Developer**
 - 📫 How to reach me **sci.mahmoudmohamedali2018@alexu.edu.eg**
